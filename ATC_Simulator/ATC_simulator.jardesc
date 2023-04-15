@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="C:/Users/MICHEL/Desktop/PDI/CHEN_FENG_GUNDUZ-L3_I-PDI_Aérien3.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/ATC_Simulator/ATC_simulator.jardesc" exportErrors="false" exportWarnings="true" includeDirectoryEntries="false" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" mainClassHandleIdentifier="=ATC_Simulator/src&lt;testATC{TestATC.java[TestATC" manifestLocation="/ATC_Simulator/manifest.mf" manifestVersion="1.0" reuseManifest="false" saveManifest="true" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=ATC_Simulator/src"/>
+        <file path="/ATC_Simulator/.project"/>
+        <file path="/ATC_Simulator/.classpath"/>
+    </selectedElements>
+</jardesc>
